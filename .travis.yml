@@ -19,6 +19,6 @@ deploy:
 notifications:
     email:  
         recipients:  
-        - mel5566@mail.ru  
+        - ***@mail.ru  
         on_success: always  
         on_failure: always
